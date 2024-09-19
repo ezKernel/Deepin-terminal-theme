@@ -1,7 +1,7 @@
 # Deepin-terminal-theme
 A self-defined deepin-terminal theme.
 
-![](deepin theme.png)
+![](view.png)
 
 Copy the following code to /.config/deepin/deepin-terminal/customTheme.colorscheme
 ```
